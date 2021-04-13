@@ -1,0 +1,18 @@
+
+
+==================================
+=========                =========
+=========Function Decment=========
+=========                =========
+==================================
+
+
+    getAllFrom($field, $table, $where = null, $orderfield, $ordering = 'DESC');
+
+
+
+    my exerciss to id in admin pages 
+    my exerciss to id in admin pages
+    my exerciss to id in admin pages
+    my exerciss to id in admin pages
+    my exerciss to id in admin pages
